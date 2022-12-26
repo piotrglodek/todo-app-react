@@ -7,7 +7,6 @@ export const Container = styled.div`
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 20px 12px;
-  grid-auto-rows: 46px;
   font-size: 16px;
   @media screen and (min-width: 576px) {
    grid-template-columns: repeat(2, 1fr);
